@@ -7,8 +7,10 @@
     "start": "webpack-dev-server --open",
     "build": "webpack --config webpack.config.prod.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "name": "Jasmine Hirpara"
+  },
+  "license": "MIT",
   "dependencies": {
     "react": "^16.3.2",
     "react-dom": "^16.3.2"
